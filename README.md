@@ -30,7 +30,7 @@ To access the Art Marketplace, follow these steps:
 1. Clone or download the repository to your local machine.
 2. Ensure you have Node.js installed on your machine.
 3. Install Angular CLI for frontend development.
-4. Set up the necessary Node.js packages for the backend (see below).
+4. Set up the necessary Node.js packages for the backend.
 5. Navigate to the project folder in your terminal.
 6. Run the application using appropriate commands for both Angular and Node.js.
 
